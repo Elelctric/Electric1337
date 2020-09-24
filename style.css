@@ -1,0 +1,58 @@
+.centered{
+    text-align: center
+}
+
+.small{
+    font-size: .40em
+}
+
+.right{
+    text-align: right;
+}
+
+html,body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0px 200px;
+    background-color: #444444;
+    color:white;
+}
+
+.underline{
+    border-bottom: 3px solid white ;
+    font-size: large;
+    font-weight: bold;
+    width: 100%;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.icon{
+    max-height: 100px;
+    max-width: 100px;
+    min-height: 100px;
+    min-width: 100px;
+}
+
+.link{
+    display:flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.footer{
+    margin-top: 200px;
+    margin-bottom: 20px;
+}
+
+.footer a{
+    color: white;
+    text-decoration: none;
+}
+
+.linka{
+    color: white;
+    text-decoration: none;
+    line-height: 3.5;
+}
